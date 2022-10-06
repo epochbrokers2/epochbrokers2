@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/epochbrokers2](https://github.com/epochbrokers2)
 
-- 💬 Ask me about **React, Next.js, Javascript, Jquery**
+- 💬 Ask me about **React.js, Next.js, Javascript, Jquery**
 
 - 📫 How to reach me **epochbrokers2@gmail.com**
 
